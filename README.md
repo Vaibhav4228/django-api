@@ -40,10 +40,9 @@
 SECRET_KEY=your_secret_key
 DEBUG=True
 EMAIL_HOST_USER=your_gmail_id
-EMAIL_HOST_PASSWORD=add_your_email_password
+EMAIL_HOST_PASSWORD=add_your_email_password.
 
-
-## Build and Run Containers
+Build and Run Containers**
 
 To build and run your Docker containers, execute:
 
